@@ -1,0 +1,33 @@
+body {
+  width: 90%;
+  max-width: 750px;
+  margin: auto;
+  font-size: 16px;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #252525;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2.5em;
+}
+
+img {
+  display: block;
+  width: 100%;
+  margin: 1em auto;
+}
+
+.instructions {
+  font-size: 1.25em;
+}
+
+.instructions li {
+  padding: 10px 0;
+}
+
+.example p {
+  font-style: italic;
+  color: #737272;
+}
